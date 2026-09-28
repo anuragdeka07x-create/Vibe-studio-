@@ -4,14 +4,18 @@ A modern video and audio media studio application built with Kotlin and Jetpack 
 
 ---
 
-### 📲 Direct APK Download for Android
+### 📲 Direct APK Download Links on GitHub
 
-You can download and install the app directly on your Android phone using either of these links:
+Tap any of these direct links on your phone:
 
-* **[Direct Raw Download (VIBE-Studio.apk)](https://github.com/anuragdotsh/vibe-studio/raw/main/releases/VIBE-Studio.apk)**  
-  *(Tap this link on your Android phone to start downloading the APK file directly)*
-* **[GitHub Releases Page](https://github.com/anuragdotsh/vibe-studio/releases)**  
-  *(View and download the latest automated build releases)*
+* **[Download from `output/` folder](https://github.com/anuragdotsh/vibe-studio/blob/main/output/app-debug.apk)**  
+  *(Tap the link ➔ tap **View raw** ➔ Chrome downloads `app-debug.apk` immediately)*
+
+* **[Download from `.build-outputs/` folder](https://github.com/anuragdotsh/vibe-studio/blob/main/.build-outputs/app-debug.apk)**  
+  *(Tap the link ➔ tap **View raw**)*
+
+* **[Direct Raw Download URL](https://github.com/anuragdotsh/vibe-studio/raw/main/output/app-debug.apk)**  
+  *(One-tap direct download link)*
 
 ---
 
