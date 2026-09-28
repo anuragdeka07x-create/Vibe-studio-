@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VIBE Studio</string>
+    <string name="import_media">Import Media</string>
+    <string name="no_video_selected">No video selected</string>
+    <string name="tap_import_hint">Tap \'Import Media\' above to select a video to play in a loop</string>
+    <string name="looping_playback">Looping enabled</string>
+</resources>

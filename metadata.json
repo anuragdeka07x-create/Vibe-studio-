@@ -1,0 +1,6 @@
+{
+  "name": "VIBE Studio",
+  "description": "A modern music production, sound design, and audio vibe studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
